@@ -1,0 +1,28 @@
+1. File and Directory Management :
+
+pwd - It will shows present working directory (or) current working directory.
+ls - List all the files and directories in that working directory.
+ls -a - Shows hidden files also (.) in that working directory.
+ls -ltr - List all the files and directories with owner, permissions and memory in that working directory.
+cd - change the directory.
+mkdir - creates a new directory.
+rmdir - removes the existing directory.
+touch - creates an empty file.
+cat - To view the content/data in the file.
+rm - removes the files.
+cp - copy the files.
+mv - moves the files.
+find - used to find the specific files and directories in the system.
+
+2. Users and Permission Management :
+
+chmod - changes file permissions/ modifications.
+chown - changes file ownership.
+sudo - runs commands as superuser.
+
+
+
+
+
+
+
