@@ -1,4 +1,4 @@
-Shell Script Basics:-
+# Shell Script :-
 
 
 A shell script is a text file that contains a sequence of commands for a Unix-based shell, like Bash, to execute. These scripts can automate repetitive tasks, manage system operations, or configure environments.
