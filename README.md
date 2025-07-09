@@ -1,4 +1,6 @@
-Shell Script Basics
+Shell Script Basics:-
+
+
 A shell script is a text file that contains a sequence of commands for a Unix-based shell, like Bash, to execute. These scripts can automate repetitive tasks, manage system operations, or configure environments.
 
 Here’s a super simple example of a shell script in Bash:
