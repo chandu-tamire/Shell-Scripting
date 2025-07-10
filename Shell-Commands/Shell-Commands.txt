@@ -1,5 +1,5 @@
-1. File and Directory Management :
-
+*** File and Directory Management :
+=========================================================================================================
 pwd - It will shows present working directory (or) current working directory.
 ls - List all the files and directories in that working directory.
 ls -a - Shows hidden files also (.) in that working directory.
@@ -10,12 +10,16 @@ rmdir - removes the existing directory.
 touch - creates an empty file.
 cat - To view the content/data in the file.
 rm - removes the files.
+rm -rf * - remove all files
 cp - copy the files.
 mv - moves the files.
 find - used to find the specific files and directories in the system.
 
-2. Users and Permission Management :
 
+
+
+*** Users and Permission Management :
+========================================================================================================
 chmod - changes file permissions/ modifications.
 chown - changes file ownership.
 sudo - runs commands as superuser.
@@ -23,6 +27,67 @@ sudo - runs commands as superuser.
 
 
 
+*** Count lines, words, characters in a file :
+========================================================================================================
+wc file.txt
+
+wc -l file.txt    # Lines only
+wc -c no of characters
+wc -w no of words
 
 
+
+
+*** head / tail – View top/bottom of a file :
+========================================================================================================
+head -n 10 file.txt      # First 10 lines
+tail -n 10 file.txt      # Last 10 lines
+tail -f log.txt          # Real-time log view
+
+
+
+
+*** Permissions & Ownership :
+========================================================================================================
+
+In Linux, file and folder permissions control who can read, write, or execute a file or directory. These permissions are critical for security and user access control.
+
+
+
+***File & Folder Permissions :
+========================================================================================================
+Each file or directory has 3 types of access for 3 categories of users:
+
+User Types:
+Owner (u) – the user who owns the file
+
+Group (g) – users in the file’s group
+
+Others (o) – everyone else
+
+Permission Types:
+
+Symbol	Name	Description
+r(4)	Read	View file contents or list directory
+w(2)Write	Modify file contents or create/delete files in a directory
+x(1)	Execute	Run the file (if it's a script/binary) or enter a directory
+
+
+Commands need to be know as DevOps Engineer :-
+========================================================================================================
+sudo apt install - Install the packages in the system.
+sudo apt upgrade - Upgrade the required packages.
+curl - (Client URL) - to view the data in the client URL directly.
+grep - search the special strings or required data in the files.
+wget - Download the files from web and saves in local machine.
+pipe - sends first command output as second command input.
+history - to view all the previous commands history. 
+clear - to clear the entire terminal.
+whoami - shows the owner name.
+df -h - disk free and shows as human readable language.
+du -h - disk usage and shows as human readable language.
+free - shows free memory in the disk.
+bash "yourfile".sh - to run a shell script.
+date - shows time and date.
+ 
 
