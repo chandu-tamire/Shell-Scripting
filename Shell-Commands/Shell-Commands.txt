@@ -1,4 +1,4 @@
-*** File and Directory Management :-
+*** File and Directory Management :- 
 =========================================================================================================
 pwd - It will shows present working directory (or) current working directory.
 ls - List all the files and directories in that working directory.
