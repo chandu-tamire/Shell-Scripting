@@ -90,5 +90,6 @@ du -h - disk usage and shows as human readable language.
 free - shows free memory in the disk.
 bash "yourfile".sh - to run a shell script.
 date - shows time and date.
- 
+ps - to show the running process.
+
 
