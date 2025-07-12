@@ -83,6 +83,7 @@ wget - Download the files from web and saves in local machine.
 pipe - sends first command output as second command input.
 history - to view all the previous commands history. 
 clear - to clear the entire terminal.
+echo - to print the data.
 whoami - shows the owner name.
 df -h - disk free and shows as human readable language.
 du -h - disk usage and shows as human readable language.
