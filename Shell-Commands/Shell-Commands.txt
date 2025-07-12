@@ -90,5 +90,5 @@ du -h - disk usage and shows as human readable language.
 free - shows free memory in the disk.
 bash "yourfile".sh - to run a shell script.
 date - shows time and date.
- 
+awk - awk processes text files or command output line by line, applying patterns and performing actions on matching lines.  
 
