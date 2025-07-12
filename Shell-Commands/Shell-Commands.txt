@@ -1,4 +1,4 @@
-*** File and Directory Management :
+*** File and Directory Management :-
 =========================================================================================================
 pwd - It will shows present working directory (or) current working directory.
 ls - List all the files and directories in that working directory.
@@ -18,7 +18,7 @@ find - used to find the specific files and directories in the system.
 
 
 
-*** Users and Permission Management :
+*** Users and Permission Management :-
 ========================================================================================================
 chmod - changes file permissions/ modifications.
 chown - changes file ownership.
@@ -27,7 +27,7 @@ sudo - runs commands as superuser.
 
 
 
-*** Count lines, words, characters in a file :
+*** Count lines, words, characters in a file :-
 ========================================================================================================
 wc file.txt
 
@@ -38,7 +38,7 @@ wc -w no of words
 
 
 
-*** head / tail – View top/bottom of a file :
+*** head / tail – View top/bottom of a file :-
 ========================================================================================================
 head -n 10 file.txt      # First 10 lines
 tail -n 10 file.txt      # Last 10 lines
@@ -47,14 +47,14 @@ tail -f log.txt          # Real-time log view
 
 
 
-*** Permissions & Ownership :
+*** Permissions & Ownership :-
 ========================================================================================================
 
 In Linux, file and folder permissions control who can read, write, or execute a file or directory. These permissions are critical for security and user access control.
 
 
 
-***File & Folder Permissions :
+***File & Folder Permissions :-
 ========================================================================================================
 Each file or directory has 3 types of access for 3 categories of users:
 
